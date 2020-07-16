@@ -1,0 +1,22 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.code {
+  background-color: black;
+  color: whitesmoke;
+}
+.ind0 {
+  margin-left: 2px;
+}
+.ind4 {
+  margin-left: 34px;
+}
+.var {
+  color: rgb(221, 136, 221);
+}
+.obj {
+  color: rgb(81, 186, 247);
+}
+.half {
+  width: 50%;
+}
