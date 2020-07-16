@@ -1,8 +1,8 @@
 {
-  "name": "zapier-code-emulator",
+  "name": "zapiercodehelp-deployed",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+  "main": "public/index.html",
   "scripts": {
     "start": "parcel index.html --open",
     "build": "parcel build index.html"
